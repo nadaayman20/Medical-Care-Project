@@ -6,8 +6,8 @@ This repo. contain some "Medical-Care-Project" , That I have made during learnin
 
 * Goal: Created Simple Template , It is responsive to all screens with some cool CSS.
 * Dev tools   :   HTML   CSS
-**  Using HTML ( Creating the structure 🏗️ )
-**  Adding CSS ( Giving cool style ✨ )
+** Using HTML ( Creating the structure 🏗️ )
+** Adding CSS ( Giving cool style ✨ )
 * Required: editor and browser
 
 ## Demo :
