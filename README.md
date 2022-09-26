@@ -17,7 +17,7 @@ This repo. contain some "Medical-Care-Project" , That I have made during learnin
 
 ## Snapshots of Project:
 
-![Screenshot (385)](https://user-images.githubusercontent.com/76060283/192341021-82db91be-f739-4f9f-bfc6-5969316bf777.png)
+![Screenshot (387)](https://user-images.githubusercontent.com/76060283/192342135-7e065f9f-305f-4792-96cc-cfd94fb0b8e9.png)
 
 ![Screenshot (381)](https://user-images.githubusercontent.com/76060283/192341259-7c750f8b-64c7-4f65-aa9c-3840757f4459.png)
 
